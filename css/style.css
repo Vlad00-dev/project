@@ -1,0 +1,39 @@
+/* line 8, ../Homeworks/trysass/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 70px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 12, ../Homeworks/trysass/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 14, ../Homeworks/trysass/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 16, ../Homeworks/trysass/sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 18, ../Homeworks/trysass/sass/style.sass */
+.block_color {
+  background-color: white;
+}
+
+/* line 20, ../Homeworks/trysass/sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */

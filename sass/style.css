@@ -1,0 +1,39 @@
+h1 {
+  color: blue;
+  font-size: 70px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+.block {
+  background-color: black;
+}
+
+.block h3 {
+  color: blue;
+}
+
+.block_color {
+  background-color: pink;
+}
+
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+.sec_block {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+/*# sourceMappingURL=style.css.map */
